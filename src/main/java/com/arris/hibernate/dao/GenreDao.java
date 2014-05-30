@@ -7,7 +7,6 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
 import javax.transaction.Transactional;
 
-import org.hibernate.Session;
 import org.springframework.stereotype.Repository;
 
 import com.arris.hibernate.entity.Genre;
