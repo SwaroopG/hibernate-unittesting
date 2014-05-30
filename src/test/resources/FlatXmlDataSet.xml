@@ -1,0 +1,6 @@
+<!DOCTYPE dataset SYSTEM "src/test/resources/my-dataset.dtd">
+<dataset>
+  <genre genre_id="1" name="action" description="Action genre." active_ind="true"/>
+  <genre genre_id="2" name="adventure" description="Adventure genre." active_ind="true"/>
+  <genre genre_id="3" name="unknown" description="Unknown genre." active_ind="false"/>
+</dataset>

@@ -1,0 +1,13 @@
+<!ELEMENT dataset (
+    genre*)>
+
+<!ELEMENT genre EMPTY>
+<!ATTLIST genre
+	genre_id  CDATA #REQUIRED
+	name  CDATA #REQUIRED
+	description  CDATA #REQUIRED
+	active_ind  CDATA #REQUIRED   
+>
+
+
+
